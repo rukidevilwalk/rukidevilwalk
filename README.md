@@ -1,6 +1,8 @@
 ### Hi there, I'm Jack - aka rukidevilwalk 👋
 
-## I'm a full stack enthusiast... but also interested in dipping my toes into cyber security!
+## I'm a full time security researcher but also a full stack enthusiast!
+
+## Due to the nature of security, all my work are classified and hidden 😂
 
 ### How to reach me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jack-how-chiam-7567351a9/)
